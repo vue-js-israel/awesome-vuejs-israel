@@ -18,11 +18,11 @@ A curated list of Israeli companies & organisations who chose the lovely Vue JS
 - [Speakers](#speakers)
 
 ## Companies
+* [CloseApp](https://closeapp.co.il)
 * [Coding Academy](https://www.coding-academy.org)
 * [GoCode](https://gocode.co.il)
 * [Intel](https://www.intel.co.il/content/www/il/he/homepage.html)
 * [Jacada](https://www.jacada.com/positions-in-israel)
-* [CloseApp](https://closeapp.co.il)
 
 ## Organizations
 * [VueJS Israel](https://vuejsisrael.com) - [Meetups](https://www.meetup.com/vue-js/) - [Github](https://github.com/vue-js-israel)
