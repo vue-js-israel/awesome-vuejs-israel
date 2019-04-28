@@ -7,6 +7,7 @@
 <div align="center">
 
 A curated list of Israeli companies & organisations who chose the lovely Vue JS
+(Sorted alphabetically by first name)
 
 </div>
 <br/>
@@ -22,9 +23,11 @@ A curated list of Israeli companies & organisations who chose the lovely Vue JS
 * [GoCode](https://gocode.co.il)
 * [Intel](https://www.intel.co.il/content/www/il/he/homepage.html)
 * [Jacada](https://www.jacada.com/positions-in-israel)
+* [Yad2](https://www.yad2.co.il)
 
 ## Organizations
 * [VueJS Israel](https://vuejsisrael.com) - [Meetups](https://www.meetup.com/vue-js/) - [Github](https://github.com/vue-js-israel)
+
 ## Speakers
 * [Dima Vishnevetsky](https://www.facebook.com/dimshik100)
 * [Elad Cohen](https://www.facebook.com/elad.fullstack)
