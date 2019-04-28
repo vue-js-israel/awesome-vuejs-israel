@@ -19,6 +19,7 @@ A curated list of Israeli companies & organisations who chose the lovely Vue JS
 - [Speakers](#speakers)
 
 ## Companies
+* [Bytii Cloud](https://bytii.cloud)
 * [CloseApp](https://closeapp.co.il)
 * [Coding Academy](https://www.coding-academy.org)
 * [Gaviti](https://www.gaviti.com)
@@ -26,20 +27,19 @@ A curated list of Israeli companies & organisations who chose the lovely Vue JS
 * [Intel](https://www.intel.co.il/content/www/il/he/homepage.html)
 * [Jacada](https://www.jacada.com/positions-in-israel)
 * [Yad2](https://www.yad2.co.il)
-* [Bytii Cloud](https://bytii.cloud)
 
 ## Websites
-* [Meuhedet](https://www.meuhedet.co.il)
-* [Biz Make Biz](https://www.bizmakebiz.co.il/)
-* [Spectrum](https://spectrum.smkb.ac.il)
 * [7Kanal](https://www.7kanal.co.il)
-* [ICF](https://www.icf-telaviv.co.il)
+* [Biz Make Biz](https://www.bizmakebiz.co.il/)
 * [Farm 2 You](https://farm2you.co.il)
-* [Wood Art](https://igor-woodart.co.il)
+* [ICF](https://www.icf-telaviv.co.il)
 * [iHomes](https://ihomes.co.il)
 * [Ima 4 Ima](https://www.ima4ima.co.il)
-* [Yoga Now](https://yoga.nirz.net)
+* [Meuhedet](https://www.meuhedet.co.il)
 * [Only.](https://onlygood.co.il)
+* [Spectrum](https://spectrum.smkb.ac.il)
+* [Wood Art](https://igor-woodart.co.il)
+* [Yoga Now](https://yoga.nirz.net)
 
 ## Organizations
 * [VueJS Israel](https://vuejsisrael.com) - [Meetups](https://www.meetup.com/vue-js/) - [Github](https://github.com/vue-js-israel)
