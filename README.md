@@ -19,6 +19,7 @@ A curated list of Israeli companies & organisations who chose the lovely Vue JS
 - [Speakers](#speakers)
 
 ## Companies
+* [Gaviti](https://www.gaviti.com)
 * [CloseApp](https://closeapp.co.il)
 * [Coding Academy](https://www.coding-academy.org)
 * [GoCode](https://gocode.co.il)
