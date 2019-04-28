@@ -24,7 +24,7 @@ A curated list of Israeli companies & organisations who chose the lovely Vue JS
 * [Jacada](https://www.jacada.com/positions-in-israel)
 
 ## Organizations
-
+* [VueJS Israel](https://vuejsisrael.com) - [Meetups](https://www.meetup.com/vue-js/) - [Github](https://github.com/vue-js-israel)
 ## Speakers
 * [Dima Vishnevetsky](https://www.facebook.com/dimshik100)
 * [Elad Cohen](https://www.facebook.com/elad.fullstack)
