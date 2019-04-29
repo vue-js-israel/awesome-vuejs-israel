@@ -15,6 +15,7 @@ A curated list of Israeli companies & organisations who chose the lovely Vue JS
 # Table of Contents
 
 - [Companies](#companies)
+- [Websites](#websites)
 - [Organizations](#organizations)
 - [Speakers](#speakers)
 
