@@ -23,6 +23,7 @@ A curated list of Israeli companies & organisations who chose the lovely Vue JS
 * [Bytii Cloud](https://bytii.cloud)
 * [CloseApp](https://closeapp.co.il)
 * [Coding Academy](https://www.coding-academy.org)
+* [Cool Cousin](https://www.coolcousin.com)
 * [Gaviti](https://www.gaviti.com)
 * [GoCode](https://gocode.co.il)
 * [Intel](https://www.intel.co.il/content/www/il/he/homepage.html)
