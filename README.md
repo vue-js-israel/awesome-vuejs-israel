@@ -28,7 +28,6 @@ A curated list of Israeli companies & organisations who chose the lovely Vue JS
 * [GoCode](https://gocode.co.il)
 * [Intel](https://www.intel.co.il/content/www/il/he/homepage.html)
 * [Jacada](https://www.jacada.com/positions-in-israel)
-* [Yad2](https://www.yad2.co.il)
 
 ## Websites
 * [7Kanal](https://www.7kanal.co.il)
@@ -41,6 +40,7 @@ A curated list of Israeli companies & organisations who chose the lovely Vue JS
 * [Only.](https://onlygood.co.il)
 * [Spectrum](https://spectrum.smkb.ac.il)
 * [Wood Art](https://igor-woodart.co.il)
+* [Yad2](https://www.yad2.co.il)
 * [Yoga Now](https://yoga.nirz.net)
 
 ## Organizations
