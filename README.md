@@ -42,6 +42,7 @@ A curated list of Israeli companies & organisations who chose the lovely Vue JS
 * [Ima 4 Ima](https://www.ima4ima.co.il)
 * [Meuhedet](https://www.meuhedet.co.il)
 * [Only.](https://onlygood.co.il)
+* [Shufersal Online](https://www.shufersal.co.il/online/)
 * [Spectrum](https://spectrum.smkb.ac.il)
 * [Wood Art](https://igor-woodart.co.il)
 * [Yad2](https://www.yad2.co.il)
