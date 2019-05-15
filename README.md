@@ -24,13 +24,14 @@ A curated list of Israeli companies & organisations who chose the lovely Vue JS
 * [CloseApp](https://closeapp.co.il)
 * [Coding Academy](https://www.coding-academy.org)
 * [Cool Cousin](https://www.coolcousin.com)
+* [Elbit Systems](https://elbitsystems.com/)
 * [Fundbox](https:///fundbox.com)
 * [Gaviti](https://www.gaviti.com)
 * [GoCode](https://gocode.co.il)
 * [Intel](https://www.intel.co.il/content/www/il/he/homepage.html)
 * [Jacada](https://www.jacada.com/positions-in-israel)
 * [Mintigo](https://www.mintigo.com)
-* [Elbit Systems](https://elbitsystems.com/)
+
 ## Websites
 * [7Kanal](https://www.7kanal.co.il)
 * [Biz Make Biz](https://www.bizmakebiz.co.il/)
