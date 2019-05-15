@@ -22,6 +22,7 @@ A curated list of Israeli companies & organisations who chose the lovely Vue JS
 ## Companies
 * [Bytii Cloud](https://bytii.cloud)
 * [CloseApp](https://closeapp.co.il)
+* [cnvrg.io](https://cnvrg.io)
 * [Coding Academy](https://www.coding-academy.org)
 * [Cool Cousin](https://www.coolcousin.com)
 * [Fundbox](https:///fundbox.com)
@@ -30,7 +31,6 @@ A curated list of Israeli companies & organisations who chose the lovely Vue JS
 * [Intel](https://www.intel.co.il/content/www/il/he/homepage.html)
 * [Jacada](https://www.jacada.com/positions-in-israel)
 * [Mintigo](https://www.mintigo.com)
-* [cnvrg.io](https://cnvrg.io)
 
 ## Websites
 * [7Kanal](https://www.7kanal.co.il)
