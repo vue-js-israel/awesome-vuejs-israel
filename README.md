@@ -22,6 +22,7 @@ A curated list of Israeli companies & organisations who chose the lovely Vue JS
 ## Companies
 * [Bytii Cloud](https://bytii.cloud)
 * [CloseApp](https://closeapp.co.il)
+* [cnvrg.io](https://cnvrg.io)
 * [Coding Academy](https://www.coding-academy.org)
 * [Cool Cousin](https://www.coolcousin.com)
 * [Elbit Systems](https://elbitsystems.com/)
@@ -33,6 +34,7 @@ A curated list of Israeli companies & organisations who chose the lovely Vue JS
 * [Mintigo](https://www.mintigo.com)
 * [Segmanta](https://segmanta.com)
 * [Tipalti](https://tipalti.com)
+* [WiseStamp](https://www.wisestamp.com)
 
 ## Websites
 * [7Kanal](https://www.7kanal.co.il)
@@ -43,6 +45,7 @@ A curated list of Israeli companies & organisations who chose the lovely Vue JS
 * [Ima 4 Ima](https://www.ima4ima.co.il)
 * [Meuhedet](https://www.meuhedet.co.il)
 * [Only.](https://onlygood.co.il)
+* [Shufersal Online](https://www.shufersal.co.il/online/)
 * [Spectrum](https://spectrum.smkb.ac.il)
 * [Wood Art](https://igor-woodart.co.il)
 * [Yad2](https://www.yad2.co.il)
