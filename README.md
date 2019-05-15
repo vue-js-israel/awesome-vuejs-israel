@@ -24,6 +24,7 @@ A curated list of Israeli companies & organisations who chose the lovely Vue JS
 * [CloseApp](https://closeapp.co.il)
 * [Coding Academy](https://www.coding-academy.org)
 * [Cool Cousin](https://www.coolcousin.com)
+* [Elbit Systems](https://elbitsystems.com/)
 * [Fundbox](https:///fundbox.com)
 * [Gaviti](https://www.gaviti.com)
 * [GoCode](https://gocode.co.il)
