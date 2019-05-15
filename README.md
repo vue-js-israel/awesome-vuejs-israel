@@ -30,7 +30,7 @@ A curated list of Israeli companies & organisations who chose the lovely Vue JS
 * [Intel](https://www.intel.co.il/content/www/il/he/homepage.html)
 * [Jacada](https://www.jacada.com/positions-in-israel)
 * [Mintigo](https://www.mintigo.com)
-
+* [Elbit Systems](https://elbitsystems.com/)
 ## Websites
 * [7Kanal](https://www.7kanal.co.il)
 * [Biz Make Biz](https://www.bizmakebiz.co.il/)
