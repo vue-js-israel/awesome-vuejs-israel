@@ -34,6 +34,7 @@ A curated list of Israeli companies & organisations who chose the lovely Vue JS
 * [Jacada](https://www.jacada.com/positions-in-israel)
 * [Mintigo](https://www.mintigo.com)
 * [Segmanta](https://segmanta.com)
+* [Snyk](http://snyk.io)
 * [Tipalti](https://tipalti.com)
 * [WiseStamp](https://www.wisestamp.com)
 
