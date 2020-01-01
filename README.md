@@ -37,6 +37,8 @@ A curated list of Israeli companies & organisations who chose the lovely Vue JS
 * [Snyk](http://snyk.io)
 * [Tipalti](https://tipalti.com)
 * [WiseStamp](https://www.wisestamp.com)
+* [Run.ai](https://run.ai)
+* [Greenpress](https://github.com/greenpress)
 
 ## Websites
 * [10best](https://10-best.co.il/)
@@ -70,6 +72,7 @@ A curated list of Israeli companies & organisations who chose the lovely Vue JS
 * [Jonathan Doron](https://www.facebook.com/yonatan.doron.10)
 * [Maya Dang Shavin](https://www.facebook.com/dpnminh)
 * [Yaron Biton](https://www.facebook.com/vyaron)
+* [David Meir-Levy](https://www.facebook.com/davidmeirlevy)
 
 ## Contributing
 Found an awesome  etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
