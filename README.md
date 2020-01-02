@@ -62,6 +62,8 @@ A curated list of Israeli companies & organisations who chose the lovely Vue JS
 * [Wood Art](https://igor-woodart.co.il)
 * [Yad2](https://www.yad2.co.il)
 * [Yoga Now](https://yoga.nirz.net)
+* [Fundbox](https://fundbox.com)
+
 
 ## Organizations
 * [VueJS Israel](https://vuejsisrael.com) - [Meetups](https://www.meetup.com/vue-js/) - [Github](https://github.com/vue-js-israel)
