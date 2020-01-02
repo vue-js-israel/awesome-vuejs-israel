@@ -42,6 +42,7 @@ A curated list of Israeli companies & organisations who chose the lovely Vue JS
 
 ## Websites
 * [10best](https://10-best.co.il/)
+* [Arutz 7](https://www.inn.co.il)
 * [7Kanal](https://www.7kanal.co.il)
 * [Berina](http://www.berina.co.il/)
 * [Biz Make Biz](https://www.bizmakebiz.co.il/)
@@ -62,6 +63,7 @@ A curated list of Israeli companies & organisations who chose the lovely Vue JS
 * [Wood Art](https://igor-woodart.co.il)
 * [Yad2](https://www.yad2.co.il)
 * [Yoga Now](https://yoga.nirz.net)
+* [Job Karov](https://www.jobkarov.com)
 
 ## Organizations
 * [VueJS Israel](https://vuejsisrael.com) - [Meetups](https://www.meetup.com/vue-js/) - [Github](https://github.com/vue-js-israel)
