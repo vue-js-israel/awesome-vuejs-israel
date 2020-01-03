@@ -42,15 +42,18 @@ A curated list of Israeli companies & organisations who chose the lovely Vue JS
 
 ## Websites
 * [10best](https://10-best.co.il/)
+* [Arutz 7](https://www.inn.co.il)
 * [7Kanal](https://www.7kanal.co.il)
 * [Berina](http://www.berina.co.il/)
 * [Biz Make Biz](https://www.bizmakebiz.co.il/)
 * [Dead Sea Scrolls](https://www.deadseascrolls.org.il/)
 * [Farm 2 You](https://farm2you.co.il)
+* [Fundbox](https://fundbox.com)
 * [ICF](https://www.icf-telaviv.co.il)
 * [IDIC](https://idic.org.il/)
 * [iHomes](https://ihomes.co.il)
 * [Ima 4 Ima](https://www.ima4ima.co.il)
+* [Job Karov](https://www.jobkarov.com)
 * [Meuhedet](https://www.meuhedet.co.il)
 * [Ofakim Group](https://ofakim-group.com/)
 * [Only.](https://onlygood.co.il)
@@ -62,7 +65,6 @@ A curated list of Israeli companies & organisations who chose the lovely Vue JS
 * [Wood Art](https://igor-woodart.co.il)
 * [Yad2](https://www.yad2.co.il)
 * [Yoga Now](https://yoga.nirz.net)
-* [Fundbox](https://fundbox.com)
 
 
 ## Organizations
