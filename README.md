@@ -33,12 +33,14 @@ A curated list of Israeli companies & organisations who chose the lovely Vue JS
 * [Intel](https://www.intel.co.il/content/www/il/he/homepage.html)
 * [Jacada](https://www.jacada.com/positions-in-israel)
 * [Mintigo](https://www.mintigo.com)
+* [Outbrain](https://www.outbrain.com)
 * [Segmanta](https://segmanta.com)
 * [Snyk](http://snyk.io)
 * [Tipalti](https://tipalti.com)
 * [WiseStamp](https://www.wisestamp.com)
 * [Run.ai](https://run.ai)
 * [Greenpress](https://github.com/greenpress)
+
 
 ## Websites
 * [10best](https://10-best.co.il/)
