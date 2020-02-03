@@ -33,6 +33,7 @@ A curated list of Israeli companies & organisations who chose the lovely Vue JS
 * [Intel](https://www.intel.co.il/content/www/il/he/homepage.html)
 * [Jacada](https://www.jacada.com/positions-in-israel)
 * [Mintigo](https://www.mintigo.com)
+* [Resonai](https://resonai.com)
 * [Segmanta](https://segmanta.com)
 * [Snyk](http://snyk.io)
 * [Tipalti](https://tipalti.com)
