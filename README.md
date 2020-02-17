@@ -20,6 +20,7 @@ A curated list of Israeli companies & organisations who chose the lovely Vue JS
 - [Speakers](#speakers)
 
 ## Companies
+* [BrainPoP](https://brainpop.com)
 * [Bytii Cloud](https://bytii.cloud)
 * [CloseApp](https://closeapp.co.il)
 * [cnvrg.io](https://cnvrg.io)
@@ -47,6 +48,7 @@ A curated list of Israeli companies & organisations who chose the lovely Vue JS
 * [7Kanal](https://www.7kanal.co.il)
 * [Berina](http://www.berina.co.il/)
 * [Biz Make Biz](https://www.bizmakebiz.co.il/)
+* [BrainPoP](https://brainpop.com)
 * [Dead Sea Scrolls](https://www.deadseascrolls.org.il/)
 * [Farm 2 You](https://farm2you.co.il)
 * [Fundbox](https://fundbox.com)
