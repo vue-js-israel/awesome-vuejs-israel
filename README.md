@@ -62,6 +62,7 @@ A curated list of Israeli companies & organisations who chose the lovely Vue JS
 * [Meuhedet](https://www.meuhedet.co.il)
 * [Ofakim Group](https://ofakim-group.com/)
 * [Only.](https://onlygood.co.il)
+* [Rami Levy](https://www.rami-levy.co.il)
 * [Shufersal Online](https://www.shufersal.co.il/online/)
 * [Spectrum](https://spectrum.smkb.ac.il)
 * [Taglit](https://www.birthrightisrael.com)
