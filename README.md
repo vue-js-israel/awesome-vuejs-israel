@@ -31,6 +31,7 @@ A curated list of Israeli companies & organisations who chose the lovely Vue JS
 * [Fundbox](https:///fundbox.com)
 * [Gaviti](https://www.gaviti.com)
 * [GoCode](https://gocode.co.il)
+* [GreenInvoice](https://www.greeninvoice.co.il/)
 * [Intel](https://www.intel.co.il/content/www/il/he/homepage.html)
 * [Jacada](https://www.jacada.com/positions-in-israel)
 * [Mintigo](https://www.mintigo.com)
