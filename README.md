@@ -36,6 +36,7 @@ A curated list of Israeli companies & organisations who chose the lovely Vue JS
 * [Jacada](https://www.jacada.com/positions-in-israel)
 * [Mintigo](https://www.mintigo.com)
 * [Outbrain](https://www.outbrain.com)
+* [Pendo](https://pendo.io)
 * [Resonai](https://resonai.com)
 * [Segmanta](https://segmanta.com)
 * [Snyk](http://snyk.io)
