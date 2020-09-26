@@ -45,6 +45,7 @@ A curated list of Israeli companies & organisations who chose the lovely Vue JS
 * [Run.ai](https://run.ai)
 * [Greenpress](https://github.com/greenpress)
 * [Swimm](https://swimm.io/)
+* [Igentify](https://www.igentify.com)
 
 
 ## Websites
