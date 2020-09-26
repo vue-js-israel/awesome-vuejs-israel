@@ -40,12 +40,11 @@ A curated list of Israeli companies & organisations who chose the lovely Vue JS
 * [Resonai](https://resonai.com)
 * [Segmanta](https://segmanta.com)
 * [Snyk](http://snyk.io)
+* [Swimm](https://swimm.io/)
 * [Tipalti](https://tipalti.com)
 * [WiseStamp](https://www.wisestamp.com)
 * [Run.ai](https://run.ai)
 * [Greenpress](https://github.com/greenpress)
-* [Swimm](https://swimm.io/)
-* [Igentify](https://www.igentify.com)
 
 
 ## Websites
