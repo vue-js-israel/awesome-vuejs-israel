@@ -69,6 +69,7 @@ A curated list of Israeli companies & organisations who chose the lovely Vue JS
 * [Rami Levy](https://www.rami-levy.co.il)
 * [Shufersal Online](https://www.shufersal.co.il/online/)
 * [Spectrum](https://spectrum.smkb.ac.il)
+* [Spitball](https://www.spitball.co/)
 * [Taglit](https://www.birthrightisrael.com)
 * [Taglit innovation center](https://www.taglitinnovation.com/)
 * [Talentbase](http://talentbase.co.il/)
