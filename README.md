@@ -33,6 +33,7 @@ A curated list of Israeli companies & organisations who chose the lovely Vue JS
 * [GoCode](https://gocode.co.il)
 * [GreenInvoice](https://www.greeninvoice.co.il/)
 * [Greenpress](https://github.com/greenpress)
+* [Igentify](https://www.igentify.com)
 * [Intel](https://www.intel.co.il/content/www/il/he/homepage.html)
 * [Jacada](https://www.jacada.com/positions-in-israel)
 * [Mintigo](https://www.mintigo.com)
