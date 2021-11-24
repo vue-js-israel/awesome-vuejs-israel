@@ -76,6 +76,7 @@ A curated list of Israeli companies & organisations who chose the lovely Vue JS
 * [Wood Art](https://igor-woodart.co.il)
 * [Yad2](https://www.yad2.co.il)
 * [Yoga Now](https://yoga.nirz.net)
+* [Karyera](https://www.karyera.org.il)
 
 
 ## Organizations
