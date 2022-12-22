@@ -40,6 +40,7 @@ A curated list of Israeli companies & organisations who chose the lovely Vue JS
 * [Outbrain](https://www.outbrain.com)
 * [Pendo](https://pendo.io)
 * [Resonai](https://resonai.com)
+* [RiseUp](https://www.riseup.co.il)
 * [Run.ai](https://run.ai)
 * [Segmanta](https://segmanta.com)
 * [Snyk](http://snyk.io)
